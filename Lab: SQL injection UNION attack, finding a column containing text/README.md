@@ -1,7 +1,7 @@
-´´´
+```
 Lab: SQL injection UNION attack, finding a column containing text
 Задача: Make the database retrieve the string: '2GKU4A'
-´´´
+```
 - Выбираем любую категорию
 ![](1.png)
 - Начинаем перехват
