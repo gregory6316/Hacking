@@ -18,4 +18,4 @@ Lab: SQL injection UNION attack, finding a column containing text
 - Заменяем NULL по очереди на требуюмую строчку пока не достигнем результата
 ![](8.png)
 - Задание выполнено!
-![](9.png)
+
